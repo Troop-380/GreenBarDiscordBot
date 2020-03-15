@@ -1,0 +1,9 @@
+{
+    "name": "GreenBarBot",
+    "version": "0.1",
+    "description": "Discord Bot to answer scouting questions",
+    "main": "index.js",
+    "author": "Troop 380",
+    "dependencies": {}
+  }
+  
